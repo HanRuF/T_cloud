@@ -11,7 +11,7 @@ public class TestContiller {
     @RequestMapping(value ="/view",method = RequestMethod.GET)
     public TestModle view(){
         TestModle testModle=new TestModle();
-        testModle.setAge("21");
+        testModle.setAge("21ffff");
         testModle.setName("你好");
         return testModle;
     }
