@@ -12,6 +12,8 @@ public class TestContiller {
     public TestModle view(){
         TestModle testModle=new TestModle();
         testModle.setAge("21fffffdsdddfff");
+
+
         testModle.setName("你好");
         return testModle;
     }
