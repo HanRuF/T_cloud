@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/demoserver" />
+    <file type="web" url="file://$PROJECT_DIR$/demotest" />
+    <file type="web" url="file://$PROJECT_DIR$/tclient" />
+    <file type="web" url="file://$PROJECT_DIR$/tperson" />
+    <file type="web" url="file://$PROJECT_DIR$/tpolice" />
+    <file type="web" url="file://$PROJECT_DIR$/tserver" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/tpolice/pom.xml" />
+        <option value="$PROJECT_DIR$/tclient/pom.xml" />
+        <option value="$PROJECT_DIR$/demoserver/pom.xml" />
+        <option value="$PROJECT_DIR$/demotest/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/tperson/pom.xml" />
+        <option value="$PROJECT_DIR$/ttserver/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
